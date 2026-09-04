@@ -1,11 +1,10 @@
 <div align="center">
 
 # Hi there, I'm Dachi Shengelia 👋
-<p style="font-size: 16px;">aspiring software developer</p>
 
 </div>
 
-─────────────────────────────────────────────────
+
 
 💫 **About Me:**
 - Aspiring Software Engineer & Full-Stack Developer based in Tbilisi, Georgia.
